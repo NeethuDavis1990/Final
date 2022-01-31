@@ -1,0 +1,10 @@
+D:\EFFinalProject\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+D:\EFFinalProject\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+D:\EFFinalProject\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.AssemblyReference.cache
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+D:\EFFinalProject\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb

@@ -1,0 +1,9 @@
+D:\EFFinalProject\Uplift.Utility\bin\Debug\netcoreapp3.1\Uplift.Utility.deps.json
+D:\EFFinalProject\Uplift.Utility\bin\Debug\netcoreapp3.1\Uplift.Utility.dll
+D:\EFFinalProject\Uplift.Utility\bin\Debug\netcoreapp3.1\Uplift.Utility.pdb
+D:\EFFinalProject\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\EFFinalProject\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.AssemblyInfoInputs.cache
+D:\EFFinalProject\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.AssemblyInfo.cs
+D:\EFFinalProject\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.csproj.CoreCompileInputs.cache
+D:\EFFinalProject\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.dll
+D:\EFFinalProject\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.pdb
