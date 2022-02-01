@@ -425,6 +425,10 @@ D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\scopedcss\bundle\Uplift.styles.
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.TagHelpers.input.cache
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.TagHelpers.output.cache
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.RazorCoreGenerate.cache
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
@@ -433,6 +437,8 @@ D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_Vie
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_createandbackToListButton.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_editandbacktoListButton.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -445,4 +451,3 @@ D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.csproj.CopyComplete
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.dll
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.pdb
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Uplift.genruntimeconfig.cache
-D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
