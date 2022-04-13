@@ -429,10 +429,14 @@ D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categor
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Login.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Secured.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
 D:\EFFinalProject\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
